@@ -6,6 +6,6 @@ LSTM will use the information from CNN to help generate a description of the ima
 
 Dataset used : flickr8k
 https://www.kaggle.com/adityajn105/flickr8k
-
+https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k
 Evaluation Metric : BLEU score
 https://www.aclweb.org/anthology/P02-1040.pdf
